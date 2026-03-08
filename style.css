@@ -1,0 +1,80 @@
+#Body{
+    margin: 100px;
+    padding: 1px;
+    display: flex;
+    flex-direction: column;
+    background-color: #82bfa0;
+}
+#corpo{
+    background-color: #c6d1a6;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3)
+}
+p{
+    color: #3f3f3f;
+}
+
+#titulos{
+    color: #2a3a32;
+    text-align: center;
+
+}
+#Divtitulo{
+    border-radius: 15pt;
+    background-color: transparent;
+    margin: 15px;
+    text-align: center;
+
+}
+#Divtopico1{
+    border-radius: 15pt;
+    background-color: transparent;
+    margin: 15px;
+    text-align: center;
+
+}
+#Divtopico2{
+    border-radius: 15pt;
+    background-color: transparent;
+    margin: 15px;
+    text-align: center;
+}
+#Divtopico3{
+    border-radius: 15pt;
+    background-color: transparent;
+    margin: 15px;
+    text-align: center;
+}
+#Divtopico4{
+    border-radius: 15pt;
+    background-color: transparent;
+    margin: 15px;
+    text-align: center;
+}
+#Divtopico5{
+    border-radius: 15pt;
+    background-color: transparent;
+    margin: 15px;
+    text-align: center;
+}
+
+#CpyRt{
+    background-color: transparent;
+    margin: 105px;
+    text-align: center;
+}
+
+#Scrum{
+    border-radius: 15pt;
+    background-color: transparent;
+    margin: 15px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+hr{
+    border: none;
+    height: 2px;
+    background-color: black;
+    margin: 20px;
+}
