@@ -1,0 +1,81 @@
+#Body{
+    margin: 5%;
+    padding: 0.2%;
+    display: flex;
+    flex-direction: column;
+    background-color: #82bfa0;
+}
+#corpo{
+    background-color: #c6d1a6;
+    border-radius: 1.5em;
+    box-shadow: 0.5em 0.5em 1em rgba(0, 0, 0, 0.3);
+}
+
+p{
+    color: #3f3f3f;
+}
+
+#titulos{
+    color: #2a3a32;
+    text-align: center;
+
+}
+#Divtitulo{
+    border-radius: 5%;
+    background-color: transparent;
+    margin: 2%;
+    text-align: center;
+
+}
+#Divtopico1{
+    border-radius: 5%;
+    background-color: transparent;
+    margin: 2%;
+    text-align: center;
+
+}
+#Divtopico2{
+    border-radius: 5%;
+    background-color: transparent;
+    margin: 2%;
+    text-align: center;
+}
+#Divtopico3{
+    border-radius: 5%;
+    background-color: transparent;
+    margin: 2%;
+    text-align: center;
+}
+#Divtopico4{
+    border-radius: 5%;
+    background-color: transparent;
+    margin: 2%;
+    text-align: center;
+}
+#Divtopico5{
+    border-radius: 5%;
+    background-color: transparent;
+    margin: 2%;
+    text-align: center;
+}
+
+#CpyRt{
+    background-color: transparent;
+    margin: 2%;
+    text-align: center;
+}
+
+#Scrum{
+    border-radius: 5%;
+    background-color: transparent;
+    margin: 2%;
+    margin-top: 10%;
+    text-align: center;
+}
+
+hr{
+    border: none;
+    height: 2px;
+    background-color: black;
+    margin: 2%;
+}
